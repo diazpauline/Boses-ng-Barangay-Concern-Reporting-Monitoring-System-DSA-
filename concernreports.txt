@@ -3,3 +3,4 @@
 3,Pauline Bernadette,Purok 1A,Videoke,Noise Complaint,High,Pending,2026-5-4
 4,Joseph Gerard Diaz,Purok 3,Broken Electrical Wires,Infrastructure,Critical,In Progress,2026-5-10
 5,Lerma Diaz,Purok 2 (Near Chapel),Clogged Drainage,Environment,Medium,Resolved,2026-5-10
+6,Pauline Bernadette Diaz,Purok 1B, Near Elementary School,Suspicious people roaming around at 2 am,Safety,High,Pending,2026-5-10
