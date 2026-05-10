@@ -141,9 +141,9 @@ int main(){
         cout << "\n=== Boses ng Barangay: Concern Reporting & Reporting System ===\n\n";
         cout << "Every crack left unfilled eventually brings the whole wall down.\n\n";
         cout << "Choose your role (1/2/3):" << endl;
-        cout << "1. Resident" << endl;
-        cout << "2. Admin (Brgy. Official)" << endl;
-        cout << "3. Exit" << endl;
+        cout << "(1) Resident" << endl;
+        cout << "(2) Admin (Brgy. Official)" << endl;
+        cout << "(3) Exit" << endl;
         cout << "Choice: ";
         cin >> choice;
         
@@ -176,9 +176,9 @@ void residentMenu() {
     do{
         cout << "\n--- Resident Menu ---\n\n";
         cout << "Choose according to your desired feature (1/2/3): \n";
-        cout << "1. Report a Concern" << endl;
-        cout << "2. View My Concerns" << endl;
-        cout << "3. Back to Main Menu" << endl;
+        cout << "(1) Report a Concern" << endl;
+        cout << "(2) View My Concerns" << endl;
+        cout << "(3) Back to Main Menu" << endl;
         cout << "Feature: ";
         cin >> feature;
 
@@ -270,9 +270,9 @@ void adminMenu() {
     do{
         cout << "\n--- Welcome, Admin! ---\n\n";
         cout << "Choose according to your desired feature (1/2/3): \n";
-        cout << "1. View All Concerns" << endl;
-        cout << "2. Update Status" << endl;
-        cout << "3. Back to Main Menu" << endl;
+        cout << "(1) View All Concerns" << endl;
+        cout << "(2) Update Status" << endl;
+        cout << "(3) Back to Main Menu" << endl;
         cout << "Feature: ";
         cin >> feature;
 
