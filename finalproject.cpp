@@ -6,7 +6,7 @@ arising within the community.
 
 The system must allow users (residents) to report their concern with all needed details, provide users (leaders / admin) password-protected 
 access to view all concerns and update their status, identify overdue concerns and urgent issues, and allow users (residents) to monitor 
-submitted reports and their status by entering their name.
+submitted reports and their status by entering their name. 
 */
 
 // Final Project (Console-based) - CC 103: Data Structures and Algorithms
